@@ -1,0 +1,5 @@
+﻿  Monte Karlo.cpp
+C:\Users\alla_\Desktop\учеба\5 семестр\ЭГА\Monte Karlo\Monte Karlo\Monte Karlo.cpp(48,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\alla_\Desktop\учеба\5 семестр\ЭГА\Monte Karlo\Monte Karlo\Monte Karlo.cpp(21,9): warning C4101: s: неиспользованная локальная переменная
+C:\Users\alla_\Desktop\учеба\5 семестр\ЭГА\Monte Karlo\Monte Karlo\Monte Karlo.cpp(27,9): warning C4101: D: неиспользованная локальная переменная
+  Monte Karlo.vcxproj -> C:\Users\alla_\Desktop\учеба\5 семестр\ЭГА\Monte Karlo\Debug\Monte Karlo.exe
